@@ -34,7 +34,7 @@
   <h3 align="center">Chulinxz</h3>
 
   <p align="center">
-    Computer Engineering and Digital Technolog (CEDT) 's Student, CU
+    Computer Engineering and Digital Technolog (CEDT) 's Student, CU BKK
     <br />
     <div>
     <a href="https://github.com/Chulinuwu/Chulinuwu"><strong>README DOCS</strong></a>
