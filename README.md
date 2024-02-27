@@ -1,5 +1,7 @@
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -64,7 +66,16 @@ I interested in UI/UX design, and I'm currently focused on learning web developm
     <img src="https://github-readme-stats.vercel.app/api?username=Chulinuwu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
+# Art
 
+<td align="center"><img src="images/IdkAgain.png" width="1000" alt="Image 1"></td>
+</br>
+<table>
+  <tr>
+    <td align="center"><img src="images/Idk.png" width="500" alt="Image 1"></td>
+    <td align="center"><img src="images/Yor.png" width="500" alt="Image 2"></td>
+  </tr>
+</table>
 
 
 <!-- CONTACT -->
