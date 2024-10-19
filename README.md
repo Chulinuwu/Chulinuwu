@@ -68,8 +68,8 @@ I'm Developer and UX/UI Designer , and I'm currently focused on learning ML/AI ,
 
 # Art
 
-<!-- <td align="center"><img src="images/IdkAgain.png" width="1000" alt="Image 1"></td> -->
-</br>
+<!-- <td align="center"><img src="images/IdkAgain.png" width="1000" alt="Image 1"></td> 
+</br>-->
 <td align="center"><img src="images/Banner.png" width="1000" alt="Image 1"></td>
 <!-- <table>
   <tr>
