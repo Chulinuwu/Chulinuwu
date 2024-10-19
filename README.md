@@ -57,7 +57,7 @@
 # Hello, I'm An-An ✨
 
 
-I interested in UI/UX design, and I'm currently focused on learning web development, but I'm enthusiastic about combining my technical skills with creativity to contribute to the dynamic field of technology. Stay tuned for more as I continue to learn and grow.
+I'm Developer and UX/UI Designer , and I'm currently focused on learning ML/AI , but I'm enthusiastic about combining my technical skills with creativity to contribute to the dynamic field of technology. Stay tuned for more as I continue to learn and grow.
 
 
 ## Stats ✨
@@ -68,14 +68,15 @@ I interested in UI/UX design, and I'm currently focused on learning web developm
 
 # Art
 
-<td align="center"><img src="images/IdkAgain.png" width="1000" alt="Image 1"></td>
+<!-- <td align="center"><img src="images/IdkAgain.png" width="1000" alt="Image 1"></td> -->
 </br>
-<table>
+<td align="center"><img src="images/Banner.png" width="1000" alt="Image 1"></td>
+<!-- <table>
   <tr>
     <td align="center"><img src="images/Idk.png" width="500" alt="Image 1"></td>
     <td align="center"><img src="images/Yor.png" width="500" alt="Image 2"></td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- CONTACT -->
