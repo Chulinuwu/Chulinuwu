@@ -13,7 +13,6 @@
   <p align="center">
     Computer Engineering and Digital Technology (CEDT) Student, CU BKK
     <br />
-    <a href="https://github.com/Chulinuwu/Chulinuwu"><strong>README DOCS</strong></a>
   </p>
 </div>
 
