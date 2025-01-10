@@ -23,16 +23,17 @@ I'm a Developer and UX/UI Designer, currently focused on learning ML/AI. I'm ent
 
 
 # Stat
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chulinuwu&show_icons=true&locale=en&layout=compact" alt="chulinuwu" /></p>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=chulinuwu&title_color=fff&text_color=fff&show_icons=true&bg_color=30,e96443,904e95&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" alt="chulinuwu" />
+  
 # Lang
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chulinuwu&show_icons=true&locale=en" alt="chulinuwu" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chulinuwu&show_icons=true&locale=en&layout=donut-vertical" alt="chulinuwu" />
 
-# Streak  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chulinuwu&" alt="chulinuwu" /></p>
+
+
+
 
 # Art
-
 <td align="center"><img src="images/Banner.png" width="1000" alt="Image 1"></td>
 
 <!-- CONTACT -->
