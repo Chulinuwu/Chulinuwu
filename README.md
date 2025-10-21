@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 # Hello, I'm An-An ✨
 
-I'm a Developer and UX/UI Designer, currently focused on learning ML/AI. I'm enthusiastic about combining my technical skills with creativity to contribute to the dynamic field of technology. Stay tuned for more as I continue to learn and grow.
+I'm a Developer, UX/UI Designer, Data scientist, currently focused on learning cyber-security. I'm enthusiastic about combining my technical skills with creativity to contribute to the dynamic field of technology. Stay tuned for more as I continue to learn and grow.
 
 
 # Stat
