@@ -9,15 +9,12 @@
 
 </div>
 
----
 
 ## About
 
 Computer Engineering student at Chulalongkorn University (2022-2026), Software Engineer, Data Scientist
 
 <img src="images/Banner.png" width="100%" alt="Banner" />
-
----
 
 ## Tech Stack
 
@@ -52,7 +49,6 @@ Computer Engineering student at Chulalongkorn University (2022-2026), Software E
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## GitHub Stats
 
